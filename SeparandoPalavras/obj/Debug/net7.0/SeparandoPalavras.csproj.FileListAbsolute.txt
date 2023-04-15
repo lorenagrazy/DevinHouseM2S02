@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\bin\Debug\net7.0\SeparandoPalavras.exe
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\bin\Debug\net7.0\SeparandoPalavras.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\bin\Debug\net7.0\SeparandoPalavras.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\bin\Debug\net7.0\SeparandoPalavras.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\bin\Debug\net7.0\SeparandoPalavras.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\SeparandoPalavras.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\SeparandoPalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\SeparandoPalavras.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\SeparandoPalavras.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\SeparandoPalavras.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\SeparandoPalavras.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\refint\SeparandoPalavras.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\SeparandoPalavras.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\SeparandoPalavras.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SeparandoPalavras\obj\Debug\net7.0\ref\SeparandoPalavras.dll

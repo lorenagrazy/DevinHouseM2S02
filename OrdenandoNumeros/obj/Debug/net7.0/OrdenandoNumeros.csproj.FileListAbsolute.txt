@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\bin\Debug\net7.0\OrdenandoNumeros.exe
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\bin\Debug\net7.0\OrdenandoNumeros.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\bin\Debug\net7.0\OrdenandoNumeros.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\bin\Debug\net7.0\OrdenandoNumeros.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\bin\Debug\net7.0\OrdenandoNumeros.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\OrdenandoNumeros.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\OrdenandoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\OrdenandoNumeros.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\OrdenandoNumeros.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\OrdenandoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\OrdenandoNumeros.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\refint\OrdenandoNumeros.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\OrdenandoNumeros.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\OrdenandoNumeros.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OrdenandoNumeros\obj\Debug\net7.0\ref\OrdenandoNumeros.dll

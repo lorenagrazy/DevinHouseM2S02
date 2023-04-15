@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\bin\Debug\net7.0\NumerosPares.exe
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\bin\Debug\net7.0\NumerosPares.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\bin\Debug\net7.0\NumerosPares.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\bin\Debug\net7.0\NumerosPares.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\bin\Debug\net7.0\NumerosPares.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\NumerosPares.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\NumerosPares.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\NumerosPares.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\NumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\NumerosPares.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\refint\NumerosPares.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\NumerosPares.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\NumerosPares.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NumerosPares\obj\Debug\net7.0\ref\NumerosPares.dll

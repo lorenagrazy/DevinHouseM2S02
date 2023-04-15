@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\OMaiorNumeroDaLista.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\OMaiorNumeroDaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\OMaiorNumeroDaLista.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\OMaiorNumeroDaLista.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\OMaiorNumeroDaLista.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\bin\Debug\net7.0\OMaiorNumeroDaLista.exe
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\bin\Debug\net7.0\OMaiorNumeroDaLista.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\bin\Debug\net7.0\OMaiorNumeroDaLista.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\bin\Debug\net7.0\OMaiorNumeroDaLista.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\bin\Debug\net7.0\OMaiorNumeroDaLista.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\OMaiorNumeroDaLista.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\refint\OMaiorNumeroDaLista.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\OMaiorNumeroDaLista.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\OMaiorNumeroDaLista.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\OMaiorNumeroDaLista\obj\Debug\net7.0\ref\OMaiorNumeroDaLista.dll

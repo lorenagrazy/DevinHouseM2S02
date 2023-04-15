@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\bin\Debug\net7.0\NomeEIdade.exe
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\bin\Debug\net7.0\NomeEIdade.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\bin\Debug\net7.0\NomeEIdade.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\bin\Debug\net7.0\NomeEIdade.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\bin\Debug\net7.0\NomeEIdade.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\NomeEIdade.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\NomeEIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\NomeEIdade.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\NomeEIdade.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\NomeEIdade.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\NomeEIdade.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\refint\NomeEIdade.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\NomeEIdade.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\NomeEIdade.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\NomeEIdade\obj\Debug\net7.0\ref\NomeEIdade.dll

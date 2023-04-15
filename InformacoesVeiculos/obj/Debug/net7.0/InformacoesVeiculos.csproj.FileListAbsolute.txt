@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\bin\Debug\net7.0\InformacoesVeiculos.exe
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\bin\Debug\net7.0\InformacoesVeiculos.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\bin\Debug\net7.0\InformacoesVeiculos.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\bin\Debug\net7.0\InformacoesVeiculos.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\bin\Debug\net7.0\InformacoesVeiculos.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\InformacoesVeiculos.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\InformacoesVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\InformacoesVeiculos.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\InformacoesVeiculos.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\InformacoesVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\InformacoesVeiculos.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\refint\InformacoesVeiculos.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\InformacoesVeiculos.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\InformacoesVeiculos.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\InformacoesVeiculos\obj\Debug\net7.0\ref\InformacoesVeiculos.dll

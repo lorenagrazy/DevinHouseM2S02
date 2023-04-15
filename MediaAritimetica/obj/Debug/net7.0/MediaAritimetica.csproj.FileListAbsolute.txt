@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\bin\Debug\net7.0\MediaAritimetica.exe
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\bin\Debug\net7.0\MediaAritimetica.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\bin\Debug\net7.0\MediaAritimetica.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\bin\Debug\net7.0\MediaAritimetica.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\bin\Debug\net7.0\MediaAritimetica.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\MediaAritimetica.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\MediaAritimetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\MediaAritimetica.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\MediaAritimetica.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\MediaAritimetica.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\MediaAritimetica.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\refint\MediaAritimetica.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\MediaAritimetica.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\MediaAritimetica.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\MediaAritimetica\obj\Debug\net7.0\ref\MediaAritimetica.dll

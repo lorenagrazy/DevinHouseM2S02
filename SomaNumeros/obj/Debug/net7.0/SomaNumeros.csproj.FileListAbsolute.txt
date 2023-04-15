@@ -1,0 +1,15 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\bin\Debug\net7.0\SomaNumeros.exe
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\bin\Debug\net7.0\SomaNumeros.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\bin\Debug\net7.0\SomaNumeros.runtimeconfig.json
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\bin\Debug\net7.0\SomaNumeros.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\bin\Debug\net7.0\SomaNumeros.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\SomaNumeros.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\SomaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\SomaNumeros.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\SomaNumeros.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\SomaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\SomaNumeros.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\refint\SomaNumeros.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\SomaNumeros.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\SomaNumeros.genruntimeconfig.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\DevinHouseM02\SomaNumeros\obj\Debug\net7.0\ref\SomaNumeros.dll
